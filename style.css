@@ -75,6 +75,11 @@ p {
   width: 70%
 }
 
+#p5 {
+  height: 700px;
+  border: none;
+}
+
 footer{
   background-color: #7e8585;
 }
