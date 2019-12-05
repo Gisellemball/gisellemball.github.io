@@ -75,17 +75,13 @@ p {
   width: 70%
 }
 
-#p5 {
-  height: 700px;
-  border: none;
-}
-
 footer{
   background-color: #7e8585;
 }
 
 button {
   font-size:1.3em;
-  padding 5px;
+  padding: 10px;
   boarder: blue solid 2pc;
+  Coror: 1A31DB
 }
