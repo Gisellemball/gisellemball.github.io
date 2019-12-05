@@ -75,7 +75,12 @@ p {
   width: 70%
 }
 
-.p5 {
+#p5a {
+  height: 700px;
+  border: none;
+}
+
+#p5b {
   height: 700px;
   border: none;
 }
